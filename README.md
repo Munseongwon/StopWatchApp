@@ -12,3 +12,7 @@ This is simple StopWatchApp from Android Studio
 
 ### Picture from reset state
 ![리셋화면](https://user-images.githubusercontent.com/96816327/151310415-14f9c50d-c647-4a63-ae9f-20666b980b32.jpg)
+
+# Resourse(image, video)
+- https://drive.google.com/drive/folders/1atF9jtJKve3ZSNniG0PU_yJPcUoOE-WR
+- https://www.youtube.com/watch?v=4XUC-1g7DG8&list=PLesEwfOYAU4ZqbO_ZilE73Bvi_rgCfma9&index=3
